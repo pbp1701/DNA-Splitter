@@ -1,0 +1,15 @@
+# DNA-Splitter Core Dependencies
+# Pin exact versions for reproducible builds across studio computers
+
+# Audio Analysis & Processing
+librosa==0.10.1
+numpy==1.24.3
+soundfile==0.12.1
+
+# GUI Framework (comes with Python, but documented for clarity)
+# tkinter (included with Python standard library)
+
+# Development & Testing
+pytest==7.4.0
+black==23.7.0
+flake8==6.0.0
