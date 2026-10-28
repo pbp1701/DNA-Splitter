@@ -10,6 +10,6 @@ soundfile==0.12.1
 # tkinter (included with Python standard library)
 
 # Development & Testing
-pytest==7.4.0
-black==23.7.0
+pytest==9.0.3
+black==26.10.1
 flake8==6.0.0
